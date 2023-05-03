@@ -1,0 +1,15 @@
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
